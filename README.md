@@ -578,7 +578,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Open Data Structures](http://opendatastructures.org) : Excellent resource for learning about DS and algos, provides code in various languages C++, Java, and pseudocode.
 - [OS Course Notes](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/) : Chapter-wise course notes according to Galvin's book
 - [Programming, Web Development, and DevOps news, tutorials, and tools for beginners to experts](https://dzone.com)
-- [Python & Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/course/coinmarketcap/)
 - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/) : a very good SQL cheat sheet
 - [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci) : Learn how continuous integration platforms work under the hood, by building one of your own on top of git with Node.js
 - [TCP/IP Illustrated Series](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
@@ -678,6 +677,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
 - [Pluralsight](https://www.pluralsight.com) : Learn Software Development, DevOps and Data Science through multiple short courses
+- [Python & Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/course/coinmarketcap/)
 - [thenewboston](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by an Indian Youtuber.
 - [Vim Tutorial Videos - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
